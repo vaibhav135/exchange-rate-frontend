@@ -1,0 +1,11 @@
+.barChartWrapperDiv{
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	padding: 0 50px 20px 50px;
+	overflow: visible;
+	/*margin-top: 35%;*/
+}
